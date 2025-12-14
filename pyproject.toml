@@ -11,4 +11,5 @@ dependencies = [
     "ipykernel>=7.1.0",
     "ollama>=0.6.1",
     "requests>=2.32.5",
+    "tiktoken>=0.12.0",
 ]
